@@ -3,13 +3,11 @@ The "T-20 Cricket Score Prediction" project is a machine learning model that pre
  
 # Dataset
 https://www.kaggle.com/datasets/veeralakrishna/cricsheet-a-retrosheet-for-cricket?select=t20s
-
+# Project Website
+https://aayush-dhattarwal-t20-cricket-score-prediction-app-68tiqn.streamlit.app/
 # Demo Screenshots
 ![chrome_1yZGcHY5lb](https://user-images.githubusercontent.com/29508011/228030899-e18ee623-7cd4-44f0-9ff4-f01a11a1956d.png)
 ![chrome_FAGRSald0E](https://user-images.githubusercontent.com/29508011/228031072-77949c39-cf59-4383-a72f-5e7d6bc4d886.png)
-
-# Project Website
-https://aayush-dhattarwal-t20-cricket-score-prediction-app-68tiqn.streamlit.app/
 
 # Tech Stack
 •	Front-End: Streamlit
